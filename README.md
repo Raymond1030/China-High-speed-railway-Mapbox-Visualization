@@ -1,5 +1,4 @@
 # China-High-speed-railway-Mapbox-Visualization
-
 基于Mapbox GL JS的中国高铁动画可视化
 
 中国高铁数据为OSM数据自整理，
