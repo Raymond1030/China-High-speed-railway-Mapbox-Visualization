@@ -11,3 +11,15 @@
 效果视频：我认为电脑自运行效果比录屏中更好
 
 [Mapbox高铁地图可视化（课程结课作业）bilibili](https://www.bilibili.com/video/BV1at4y1H72E?spm_id_from=333.999.0.0&vd_source=673ea0343e9263fdc787b4c5e10dc19f)
+
+**功能实现：**
+
+1.高铁线路渐入动画
+
+2.高铁线路以及高铁站点的分级展示
+
+3.人口及省份GDP图表交互
+
+**效果图：**
+
+![image-20221004170617939](C:\Users\USER\AppData\Roaming\Typora\typora-user-images\image-20221004170617939.png)
