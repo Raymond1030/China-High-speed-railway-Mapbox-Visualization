@@ -22,4 +22,4 @@
 
 **效果图：**
 
-![image-20221004170617939](C:\Users\USER\AppData\Roaming\Typora\typora-user-images\image-20221004170617939.png)
+![image-20221004170617939](https://github.com/Raymond1030/China-High-speed-railway-Mapbox-Visualization/blob/main/Img/image-20221004170617939.png)
